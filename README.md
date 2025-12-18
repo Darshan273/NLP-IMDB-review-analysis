@@ -1,18 +1,12 @@
-# NLP Sentiment Analysis using Streamlit
+# NLP Sentiment Analysis
 
-This project predicts sentiment (Positive / Negative) from movie reviews using NLP.
+This project predicts sentiment (Positive/Negative) from text using NLP techniques.
 
 ## Tech Stack
 - Python
-- Pandas, NumPy
+- NLP (TF-IDF)
 - Scikit-learn
-- NLTK
 - Streamlit
-
-## Features
-- Text preprocessing
-- Logistic Regression model
-- Streamlit deployment
 
 ## How to Run
 pip install -r requirements.txt

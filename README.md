@@ -10,4 +10,5 @@ This project predicts sentiment (Positive/Negative) from text using NLP techniqu
 
 ## How to Run
 pip install -r requirements.txt
+
 streamlit run app.py
